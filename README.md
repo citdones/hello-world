@@ -1,2 +1,7 @@
 # hello-world
-just my first repository
+
+Hi humans!
+
+My first repository in GitHub.
+
+I love 🍨 🍒 and ☕.
